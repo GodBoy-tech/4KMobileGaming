@@ -236,7 +236,3 @@ Prevents conflicts and slowdowns.
 
 Reboot before installation
 Helps ensure maximum available resources.
-
----
-
-If you want, I can also format this as a complete README.md file with headings, badges, project description, and a polished intro.
